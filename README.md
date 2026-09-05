@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabrice MUCYO</h1>
+<h1 align="center">Fabrice MUCYO</h1>
 
 <h3 align="center">Software Engineering Student | Developer | Problem Solver</h3>
 
