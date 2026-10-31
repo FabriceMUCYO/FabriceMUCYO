@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -56,16 +56,16 @@
 
 
 
-### 📌 Areas of Interest
+### Areas of Interest
 
-* 🌐 Web Development
-* ⚙️ Backend Development
-* 🗃️ Database Systems
-* 📊 Data & ETL Pipelines
-* 🧩 Software Engineering
-* 🎨 UI/UX & Graphic Design
-* 🔐 Networking & Systems
-* 🚀 Building Real-World Projects
+*  Web Development
+*  Backend Development
+*  Database Systems
+*  Data & ETL Pipelines
+*  Software Engineering
+*  UI/UX & Graphic Design
+*  Networking & Systems
+*  Building Real-World Projects
 
 
 </p>
