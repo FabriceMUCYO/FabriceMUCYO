@@ -61,7 +61,7 @@
 *  Web Development
 *  Backend Development
 *  Database Systems
-*  Data & ETL Pipelines
+*  Data Processing
 *  Software Engineering
 *  UI/UX & Graphic Design
 *  Networking & Systems
