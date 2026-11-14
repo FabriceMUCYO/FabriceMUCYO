@@ -1,6 +1,6 @@
 <h1 align="center">Fabrice MUCYO</h1>
 
-<h3 align="center">Full-Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Software Engineer | UI/UX Designer</h3>
 
 <p align="center">
   I’m a Software Engineering student passionate about building practical, user-focused software solutions.
